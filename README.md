@@ -2,7 +2,7 @@
 
 ## Senior DataOps Engineer → Platform Engineer 🚀
 
-I'm a Senior Data Engineer with 6x GCP certifications, currently mastering Platform Engineering to build internal developer platforms that empower engineering teams.
+I'm a Senior DataOps Engineer with 6x GCP certifications, currently mastering Platform Engineering to build internal developer platforms that empower engineering teams.
 
 ### 🔭 Current Focus
 - Building self-service infrastructure platforms
@@ -28,18 +28,27 @@ I'm a Senior Data Engineer with 6x GCP certifications, currently mastering Platf
 - GitOps workflows
 - Developer portals
 
-### 🌍 Location
-Paris, France 🇫🇷
-
-### 📫 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/mohamadou-camara%E2%98%81%EF%B8%8F-000005a5/
-- Medium:  https://www.medium.com/camaramohamadou
-- Email: devwithmoha@gmail.com
-
 ---
 
-### 📌 Featured Projects
+### 📌 Feedback
 
-**[Platform Engineering Journey](https://github.com/camaramohamadou/platform-engineering-journey)** 🆕
-My documented path from Data Engineering to Platform Engineering with hands-on projects.
+### Ayoub
+![Ayoub Rmidi's Feedback](images/Ayoub_RMIDI.PNG)
+
+### Victorien
+![Victorien Bouillard's Feedback](images/victorien_BOUILLARD.PNG)
+
+
+### Walid
+![Walid Mohan Amer's Feedback](images/Walid_MOHAN_AMER.PNG)
+
+
+## Feedback TEAM Iprospect (DENTSU)
+
+### Amira
+![Amira's Feedback](images/EL_SAYED_Amira.PNG)
+
+### Vanessa
+![Vanessa's Feedback](images/Vanessa_De_Rudder.PNG)
+
 ---
